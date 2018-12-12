@@ -23,7 +23,7 @@ Easy to use private hosted PyPi repositories. Works with all Python package type
 
 ### Попробуйте сейчас - <a href="https://gitupload.com">GtUpload.com</a>
 
-Версия = 0.0.7 <br />
+Версия = 0.0.8 <br />
 Название библиотеки = python_package_repository <br />
 Название = Python package repository <br />
 Ключевые слова = Git,  upload,  package,  repo, repositories package <br />

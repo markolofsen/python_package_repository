@@ -23,7 +23,7 @@ Does not require special software - it works in the browser.
 
 ### Try it now — <a href="https://gitupload.com">GtUpload.com</a>
 
-Version = 0.0.7 <br />
+Version = 0.0.8 <br />
 Library name = python_package_repository <br />
 Title = Python package repository <br />
 Keywords = Git,  upload,  package,  repo, repositories package <br />
